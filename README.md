@@ -1,1 +1,1 @@
-# A Python code that analyzes my grades.
+# Personal Projects
